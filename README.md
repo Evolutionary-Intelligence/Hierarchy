@@ -6,3 +6,4 @@
 * Borkar, V.S., 2009. Stochastic approximation: a dynamical systems viewpoint (Vol. 48). Springer.
 * Berglund, N. and Gentz, B., 2006. Noise-induced phenomena in slow-fast dynamical systems: a sample-paths approach. Springer Science & Business Media.
 * Borkar, V.S., 1997. Stochastic approximation with two time scales. Systems & Control Letters, 29(5), pp.291-294.
+* Jeroslow, R.G., 1985. The polynomial hierarchy and a simple model for competitive analysis. Mathematical Programming, 32(2), pp.146-164.
