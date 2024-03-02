@@ -1,6 +1,7 @@
 # Hierarchy
 
 * Marion, P. and Berthier, R., 2024. Leveraging the two-timescale regime to demonstrate convergence of neural networks. Advances in Neural Information Processing Systems, 36.
+* Lu, C., Towers, S. and Foerster, J., 2023. Arbitrary order meta-learning with simple population-based evolution. arXiv preprint arXiv:2303.09478.
 * Hong, M., Wai, H.T., Wang, Z. and Yang, Z., 2023. A two-timescale stochastic algorithm framework for bilevel optimization: Complexity analysis and application to actor-critic. SIAM Journal on Optimization, 33(1), pp.147-180.
 * He, X., Zhou, Y. and Chen, Z., 2018. Evolutionary bilevel optimization based on covariance matrix adaptation. IEEE Transactions on Evolutionary Computation, 23(2), pp.258-272.
 * Heusel, M., Ramsauer, H., Unterthiner, T., Nessler, B. and Hochreiter, S., 2017. Gans trained by a two time-scale update rule converge to a local nash equilibrium. Advances in Neural Information Processing Systems, 30.
