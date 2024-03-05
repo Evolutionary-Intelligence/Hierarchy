@@ -1,5 +1,6 @@
 # Hierarchy
 
+* Rosas, F.E., Geiger, B.C., Luppi, A.I., Seth, A.K., Polani, D., Gastpar, M. and Mediano, P.A., 2024. Software in the natural world: A computational approach to emergence in complex multi-level systems. arXiv preprint arXiv:2402.09090.
 * Marion, P. and Berthier, R., 2024. Leveraging the two-timescale regime to demonstrate convergence of neural networks. Advances in Neural Information Processing Systems, 36.
 * Lu, C., Towers, S. and Foerster, J., 2023. Arbitrary order meta-learning with simple population-based evolution. arXiv preprint arXiv:2303.09478.
 * Hong, M., Wai, H.T., Wang, Z. and Yang, Z., 2023. A two-timescale stochastic algorithm framework for bilevel optimization: Complexity analysis and application to actor-critic. SIAM Journal on Optimization, 33(1), pp.147-180.
